@@ -8,5 +8,7 @@ public class Main {
         Ioanaconst ioanaconst = new Ioanaconst();
 
         Ioanaconst.display();
+        Mihnea mihnea = new Mihnea(5);
+        mihnea.display();
     }
 }
