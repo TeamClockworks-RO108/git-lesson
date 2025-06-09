@@ -16,5 +16,9 @@ public class Main {
         eu = new Adi(17);
 
         eu.displayInfo();
+
+        Ioana1 ioana = new Ioana1(16);
+        ioana.display();
+
     }
 }
